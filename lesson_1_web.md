@@ -165,7 +165,7 @@ PHP (/pi:.eɪtʃ.pi:/ англ. PHP: Hypertext Preprocessor — «PHP: преп�
 
 ![php-meme](images/php-meme.webp)
 
-## Полезные Ссылки
+## Источники
 
 [LAMP](https://ru.wikipedia.org/wiki/LAMP)
 [How to Install LAMP stack on Ubuntu](https://betterprogramming.pub/how-to-install-lamp-stack-on-ubuntu-db77ac018116)
